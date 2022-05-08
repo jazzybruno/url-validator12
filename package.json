@@ -1,0 +1,11 @@
+{
+  "name": "url-validator12",
+  "version": "1.0.4",
+  "description": "an npm pakage to check if a url is valid",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jazzy Bruno",
+  "license": "ISC"
+}
